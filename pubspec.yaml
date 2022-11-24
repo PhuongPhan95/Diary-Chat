@@ -60,8 +60,6 @@ flutter:
   assets:
     - assets/images/
     - assets/icons/
-    - assets/credentials.json
-    - assets/credentials1.json
     # - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
